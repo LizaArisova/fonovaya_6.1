@@ -1,0 +1,9 @@
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\простые формы\задача_6.1\bin\Debug\задача_6.1.exe.config
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\простые формы\задача_6.1\bin\Debug\задача_6.1.exe
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\простые формы\задача_6.1\bin\Debug\задача_6.1.pdb
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\простые формы\задача_6.1\obj\Debug\задача_6.1.csprojAssemblyReference.cache
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\простые формы\задача_6.1\obj\Debug\задача_6._1.forma.resources
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\простые формы\задача_6.1\obj\Debug\задача_6._1.Properties.Resources.resources
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\простые формы\задача_6.1\obj\Debug\задача_6.1.csproj.GenerateResource.cache
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\простые формы\задача_6.1\obj\Debug\задача_6.1.exe
+C:\Users\Иван\OneDrive\Рабочий стол\ООП\простые формы\задача_6.1\obj\Debug\задача_6.1.pdb
